@@ -8,7 +8,7 @@
 // }
 
 
-//Ejercicio 1
+//Ejercicio 1 version 0
 
 let saldoCuenta = 20000; // este monto preexistente es a modo de ejemplo suponiendo que tiene dinero en su cuenta
 
